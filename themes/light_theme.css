@@ -1,0 +1,32 @@
+:root {
+  --color-text-main: rgba(0, 0, 0, 0.9);
+  --color-text-secondary: var(--color-cool-gray-9);
+  --color-text-white: var(--color-white);
+  --color-text-black: var(--color-black);
+  --color-text-link: var(--color-pink-500);
+  --color-text-primary: var(--color-pink-500);
+
+  --color-primary-lighter: var(--color-pink-400);
+  --color-primary: var(--color-pink-500);
+  --color-primary-darker: var(--color-pink-600);
+
+  --color-background: var(--color-white);
+
+  --color-surface-1: var(--color-white);
+  --color-surface-2: var(--color-white);
+  --color-surface-3: var(--color-white);
+
+  --color-borderline: var(--color-gray-2);
+
+  --color-button-gray: 200, 200, 200;
+
+  --shadow-normall: 0 5px 10px rgba(0, 0, 0, 0.12);
+  --shadow-hover: 0 8px 30px rgba(0, 0, 0, 0.12);
+
+  --color-text-main: #1f1f1f;
+  --color-text-secondary: #393939;
+
+  --color-blog-text-header: #1f1f1f;
+  --color-blog-text-main: #292926;
+  --color-blog-text-secondary: #6f6f79;
+}
