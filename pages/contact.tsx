@@ -152,7 +152,7 @@ const Cards = styled.div`
     }
 
     & .email {
-      background-color: var(--color-gray-8);
+      background-color: var(--color-purple-200);
     }
   }
 `;
