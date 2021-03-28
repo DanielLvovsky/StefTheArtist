@@ -68,7 +68,7 @@ const Block = styled.div`
 
     & button {
       margin-top: 1.5em;
-      background-color: var(--color-gray-9);
+      background-color: #FF74C4;
     }
   }
 
