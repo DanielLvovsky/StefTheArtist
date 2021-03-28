@@ -102,7 +102,7 @@ export const Intro: React.FC<IntroProps> = () => {
       </div>
       
       <div className="imageWrapper">
-        <Image src="about/me.jpg" alt="Me" width={575} height={690} bgColor="#1A1A1A" priority/>
+        <Image src="about/Me.jpg" alt="Me" width={575} height={690} bgColor="#1A1A1A" priority/>
       </div>
 
       
