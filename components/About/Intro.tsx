@@ -88,11 +88,11 @@ export const Intro: React.FC<IntroProps> = () => {
     <Block className="block" ref={ref} data-visible={visible}>
       <div className="text-block">
         <h1 className="montserrat">Stefanie Lvovsky</h1>
-        <h2 data-font-size="XL">Illustrator and Painter</h2>
+        <h2 data-font-size="XL">Illustrator</h2>
         <p>
-          Hey! I am illustrator based in Seattle.
-          I specialize in illustrations, 2D artwork and digital art.
-          I love creating artwork that I feel connected with.
+          Hey! I am an illustrator based in Seattle. I started digital art in 2020 thinking it was just a hobby, but it turned to a passion of mine. My style is a variety of fun, bright colors to make my portraits stand out.   
+          I focus on creating artwork that my viewers and I feel connected with. 
+          
           
           Occasionally I paint, you can check out my paintings <a href="" target="_blank" rel="noopener noreferrer">
           here
