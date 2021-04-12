@@ -102,6 +102,9 @@ const List = styled.div`
     border: none;
   }
 
+    @media (min-width: 710px) {
+        var(--color-cool-gray-9);
+
   &::-webkit-scrollbar-thumb {
     background-color: var(--color-gray-2);
     border-radius: 20px;
