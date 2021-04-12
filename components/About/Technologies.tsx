@@ -30,6 +30,8 @@ export const Technologies: React.FC<TechnologiesProps> = () => {
 const Container = styled.div`
   width: 100% !important;
 
+  text-align: center;
+
   transition: var(--transition-ease), opacity 1s ease;
 
   &[data-visible="false"] {
