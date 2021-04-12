@@ -9,12 +9,9 @@ import {
   CardsCatalog,
   SiteFooter,
   GitHubBanner,
-  Sallery,
   SiteHeader,
   NewsLine,
   Technologies,
-  TechnologiesCatalog,
-  Expirience,
 } from "components";
 
 const GlobalStyles = createGlobalStyle`div.headroom--unfixed > .headroomContainer {
@@ -46,7 +43,6 @@ const IndexPage: NextPage = () => (
       <br />
       <br />
       <br />
-      <Sallery />
       <br />
       <br />
       <br />
