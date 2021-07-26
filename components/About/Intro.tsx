@@ -90,8 +90,7 @@ export const Intro: React.FC<IntroProps> = () => {
         <h1 className="montserrat">Stefanie Lvovsky</h1>
         <h2 data-font-size="XL">Illustrator</h2>
         <p>
-          Hey! I am an illustrator based in Seattle. I started digital art in 2020 thinking it was just a hobby, but it turned to a passion of mine. My style is a variety of fun, bright colors to make my portraits stand out.   
-          I focus on creating artwork that my viewers and I feel connected with.
+          My name is Stefanie and I am an illustrator based in Seattle. I started digital art in 2020 thinking it was just a hobby, but it turned to a passion of mine. I create unique illustrations for individuals and businesses for their brand to stand out. I have worked with a variety of businesses such as ROMWE to create illustrations that speak to them and their business. My style emphasizes women in my unique surreal way, by using a variety of fun, bright colors to make my portraits stand out. I focus on creating artwork that my viewers and I feel connected with. Lets work together and bring your next project to life.
         </p>
         <p className="aside">
           Let&apos;s work together! I&apos;m always happy to provide you my professional help for your business.
