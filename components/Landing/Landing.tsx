@@ -17,7 +17,7 @@ export const Landing: React.FC<LandingProps> = () => {
         <div className="content">
           <Title />
           <p data-font-size="Focus">
-            I’m a Illustrator and Painter creating artwork for the world to see.
+            Illustrator Designer creating artwork for the world to see.
           </p>
           <Buttons />
         </div>
