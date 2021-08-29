@@ -90,13 +90,13 @@ const ContactPage: NextPage = () => {
                 <div>Reach me on Instagram</div>
               </Link>
               <Link
-                href="mailto:stefanielvovsky@gmail.com"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScSunGsD7QzQjUne2fSgXtZvN96cOrKIT-w--TYT_RAl7nCtw/viewform"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="email"
               >
                 <FiMail size={24} />
-                <div>Email for customers</div>
+                <div>Contact Form</div>
               </Link>
             </div>
           </Cards>
